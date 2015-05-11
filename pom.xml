@@ -8,8 +8,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>spring-boot-jbpm</name>
-  <description>jBPM with spring boot</description>
+  <name>spring-boot-jbpm-parallel</name>
+  <description>jBPM with spring boot and async parallel tasks</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
